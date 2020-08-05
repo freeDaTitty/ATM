@@ -6,7 +6,8 @@ multe headere pentru ca e un cod foarte mare. Cu chin si cu durere
 pentru ca arata acum destul de urat, am reusit sa il structurez pentru 
 a nu depasi 80 de caractere pe linie. Am 80 maxim, promit.
 
-	Pe scurt, tot ce-am facut in cod..:
+Pe scurt, tot ce-am facut in cod..:
+
 - Am implementat functii de alocare pentru celulele necesare.
 Baza de date de tip LSC, lista de carduri de tip LC si istoricul
 de tip H.
@@ -21,13 +22,10 @@ tranzactia daca a facut-o din greseala si tot asa.
 1. free_History
 2. free_LC
 
-Cu ajutorul acestor functii aveam de gand sa eliberez memoria, dar
-deja am intarziat cu o zi si oricum nu am maxim, deci.. nu le mai folosesc
-in cod.
+Cu ajutorul acestor functii aveam de gand sa eliberez memoria.
 
 3. add_History
 
-	Functie ce adauga in istoric continutul necesar.
+Functie ce adauga in istoric continutul necesar.
 
-	Si cam atat. Restul este scris in cod, n-am avut prea mare inspiratie in
-ceea ce priveste acest README si comentariile din cod.
+
